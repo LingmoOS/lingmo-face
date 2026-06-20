@@ -1,7 +1,7 @@
-Source: deepin-face
+Source: lingmo-face
 Section: devel
 Priority: optional
-Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends: debhelper (>= 8.0.0),
 	pkg-config,
 	qmake6,
@@ -20,7 +20,7 @@ Build-Depends: debhelper (>= 8.0.0),
 	libdtk6core-bin,
 	qt6-multimedia-dev
 Standards-Version: 4.5.1
-Homepage: https://github.com/linuxdeepin/deepin-face
+Homepage: https://github.com/LingmoOS/lingmo-face
 
 Package: deepin-face
 Architecture: any
