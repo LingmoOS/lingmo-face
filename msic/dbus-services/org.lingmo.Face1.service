@@ -1,4 +1,4 @@
 [D-BUS Service]
-Name=org.deepin.dde.Face1
+Name=org.lingmo.Face1
 Exec=/bin/false
 SystemdService=deepin-face.service

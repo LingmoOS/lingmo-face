@@ -9,7 +9,7 @@ After=dbus.socket
 Type=dbus
 User=deepin-daemon
 SupplementaryGroups=video
-BusName=org.deepin.dde.Face1
+BusName=org.lingmo.Face1
 ExecStart=/usr/libexec/deepin-face
 
 ProtectSystem=strict

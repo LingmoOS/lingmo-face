@@ -6,7 +6,7 @@
 #include "definehead.h"
 
 CharaDataManger::CharaDataManger()
-    : m_spUadpInterface(new QDBusInterface("org.deepin.dde.Uadp1",
+    : m_spUadpInterface(new QDBusInterface("org.lingmo.Uadp1",
                                            "/org/deepin/dde/Uadp1",
                                            "org.deepin.dde.Uadp1",
                                            QDBusConnection::systemBus()))
